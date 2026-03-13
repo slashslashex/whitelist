@@ -1,1 +1,1 @@
-vless://90266983-c081-07d0-bb4f-874162920369@109.120.189.243:52006?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%234
+vless://41e8f68c-4635-07d0-a466-1b03ce16e09c@212.193.157.118:443?encryption=none&type=ws&host=lk-cdn.deploy-assure.ru&path=//&security=tls&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
