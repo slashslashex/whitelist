@@ -1,2 +1,1 @@
-vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.156.236:443?encryption=none&type=ws&host=lk-cdn.deploy-assure.ru&path=//&security=tls&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%238
-vless://3cfc645e-87d3-07d0-a834-9c68a8e450be@89.208.228.128:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2328
+vless://3d2dc2ca-e960-07d0-93ad-db677b42a47e@109.120.191.184:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
